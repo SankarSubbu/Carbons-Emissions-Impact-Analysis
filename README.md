@@ -27,10 +27,7 @@ The primary analysis involves plotting the CO2 concentration (in ppm) against ti
 2.  **A Long-Term Upward Trend**: A steady and steepening upward curve, indicating a continuous and accelerating increase in atmospheric CO2 since the measurements began.
 
 The chart below is a representation of the trend found in the dataset.
-
-![Global CO2 Concentration Trend](https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png)
-_Image Credit: Scripps Institution of Oceanography, UC San Diego. Public Domain._
-
+(https://github.com/SankarSubbu/Carbons-Emissions-Impact-Analysis/blob/main/outputs/Seasonal%20Variations%20in%20CO%E2%82%82%20Concentrations.jpeg)
 ## Key Findings
 
 - **Unprecedented Growth**: Atmospheric CO2 levels have risen dramatically, from approximately 315 ppm in 1958 to over 420 ppm in recent years.
