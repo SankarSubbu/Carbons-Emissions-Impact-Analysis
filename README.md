@@ -28,7 +28,7 @@ The primary analysis involves plotting the CO2 concentration (in ppm) against ti
 
 The chart below is a representation of the trend found in the dataset.
 
-!Global CO2 Concentration Trend
+![Global CO2 Concentration Trend](https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png)
 _Image Credit: Scripps Institution of Oceanography, UC San Diego. Public Domain._
 
 ## Key Findings
